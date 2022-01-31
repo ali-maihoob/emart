@@ -51,7 +51,7 @@
                         </li>
                         <li class="nav-item">
                             <a href="{{ route('banner.create') }}" class="nav-link">
-                                <i class="fas fa-plus nav-icon"></i>
+                                <i class="fas fa-plus-square nav-icon"></i>
                                 <p>Add Banner</p>
                             </a>
                         </li>
